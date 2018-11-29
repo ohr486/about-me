@@ -12,10 +12,4 @@
 
 # About me
 
-
-
-
 # Notes
-
-
-
