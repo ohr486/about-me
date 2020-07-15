@@ -1,5 +1,5 @@
 # x-readme
 
-## manager-readme
+[manager-readme](./manager-readme.md)
 
-## engneer-readme
+[engneer-readme](./engneer-readme.md)
